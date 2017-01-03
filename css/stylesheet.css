@@ -1,10 +1,10 @@
 h1 {
-  color: red;
+  color: lightgreen;
   font-family: cursive;
 }
 
 h2 {
-  color: orange;
+  color: skyblue;
   font-style: italic;
   font-weight: bold;
 }
@@ -15,9 +15,9 @@ img {
 }
 
 body {
-  background-color: skyblue;
+  background-color: #140E3B;
   text-align: left;
-  color: darkblue;
+  color: #D6D014;
 }
 
 li {
@@ -26,4 +26,11 @@ li {
   display:inline;
   margin: 20px;
 
+}
+
+a:visited {
+  color:darkgreen;
+}
+a {
+  color:green;
 }
