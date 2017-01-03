@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  font-family: cursive;
+}
+
+h2 {
+  color: orange;
+  font-style: italic;
+  font-weight: bold;
+}
+
+img {
+  max-width: 500px;
+  max-height: auto;
+}
+
+body {
+  background-color: skyblue;
+  text-align: left;
+  color: darkblue;
+}
+
+li {
+  color: darkblue;
+  font-family: sans-serif;
+  display:inline;
+  margin: 20px;
+
+}
